@@ -14,7 +14,7 @@
 - 🎧 Music! I love music, and I listen to MANY genres
 - ⌨️ Keyboards. May sound silly but I really like keyboards, and their customizability
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=clueeng&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="clueeng" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=clueeng&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="flaily" /></p>
 
 <h3 align="left">🌍 My socials</h3>
 <p align="left">
