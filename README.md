@@ -3,8 +3,8 @@
 ### ✨ My goals for 2024
  - ✔️ Release my Minecraft Client to the public ( [Click Here!](https://github.com/Clueeng/Flauxy2) )
 ### My goals for 2025
- - Keep Maintaining Space4J and somewhat Flauxy
- - Get in IT
+ - Keep Maintaining Space4J and somewhat Flauxy (And i guess i forgot to maintain those two welp)
+ - Get in IT (I GOT IN IT!!)
 
 ### 💻 The languages I know
 - Java, I initially started programming in java, making custom clients for minecraft
