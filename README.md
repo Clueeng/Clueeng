@@ -1,7 +1,5 @@
 ## Hey there, welcome to my github page!
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=clueeng&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="flaily" /></p>
-
 <h3 align="left">🌍 My socials</h3>
 <p align="left">
 <a href="https://dev.to/flaily" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="flaily" height="30" width="40" /></a>
